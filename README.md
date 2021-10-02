@@ -21,4 +21,5 @@
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VaibhavMogha&theme=synthwave)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavMogha&show_icons=true&hide=stars&count_private=true&theme=blue-green">
 </div>
