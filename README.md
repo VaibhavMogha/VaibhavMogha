@@ -15,3 +15,10 @@
  <h2>Connect with me:</h2><p align="left">
 <a href = "https://www.linkedin.com/in/vaibhavmogha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.snapchat.com/add/guynext-door31?share_id=A4a8GbBxU7Q"><img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/></a>
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VaibhavMogha&theme=synthwave)](https://git.io/streak-stats)
+
+</div>
