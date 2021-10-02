@@ -19,7 +19,8 @@
 
 <div align="center">
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VaibhavMogha&theme=synthwave)](https://git.io/streak-stats)
+![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=VaibhavMogha)
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavMogha&show_icons=true&hide=stars&count_private=true&theme=blue-green">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VaibhavMogha&theme=synthwave)](https://git.io/streak-stats)
 </div>
