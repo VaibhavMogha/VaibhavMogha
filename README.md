@@ -13,8 +13,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
  <h2>Connect with me:</h2><p align="left">
-<a href = "https://www.linkedin.com/in/vaibhavmogha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.snapchat.com/add/guynext-door31?share_id=A4a8GbBxU7Q"><img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/></a>
+<a href = "https://www.linkedin.com/in/vaibhavmogha/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.snapchat.com/add/guynext-door31?share_id=A4a8GbBxU7Q" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/></a>
+<a href = "https://vaibhavmogha.github.io/Portfolio/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
